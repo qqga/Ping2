@@ -1,0 +1,13 @@
+﻿{
+    "Host": "",
+    "Timeout": 0,
+    "Period": null,
+    "LogFile": true,
+
+    "SoundEnabled": true,
+    "ErrorFrequency": 1800,
+    "ErrorDuration": 400,
+    "SuccessFrequency": 777,
+    "SuccessDuration": 777
+
+}

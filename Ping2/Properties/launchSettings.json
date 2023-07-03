@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ping2": {
+      "commandName": "Project",
+      "commandLineArgs": "-h ya.ru -t 5000 -p 2000"
+    }
+  }
+}
